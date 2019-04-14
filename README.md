@@ -1,0 +1,2 @@
+# rirekisho
+xelatex rirekisho template
